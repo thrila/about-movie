@@ -7,7 +7,8 @@ A  CLI tool to check info about movies
 ## Insert Movie name and see movie details
 
 ```
-npx 
+npm install
+npm start
 ```
 
 ## Packages Used
